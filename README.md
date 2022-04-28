@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
+This project was made in React during a challenge called "5 Projetos em 5 Dias" with [B7Web](https://b7web.com.br).
 
 ## Available Scripts
 
